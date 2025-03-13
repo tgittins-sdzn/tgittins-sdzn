@@ -1,5 +1,5 @@
 ## Hello! 👋 
-I'm Anthony Gittins, an Engineering Manager at Sigma Design. With a strong background in control systems engineering, I thrive on solving complex problems and driving innovation in the field of automation and control systems. 
+I'm Anthony Gittins, an Engineering Technical Lead at Sigma Design. With a strong background in control systems engineering, I thrive on solving complex problems and driving innovation in the field of automation and control systems. 
 
 Sigma Design is a premier engineering and product development company that specializes in providing innovative solutions to a wide range of industries. Our team is dedicated to enhancing digital presence and improving customer engagement through cutting-edge technology and design.
 
